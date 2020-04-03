@@ -5,4 +5,4 @@ COLOR ENCRYPTİON
 
 ~The file name "Renklerle Şifreleme Konsol" includes whole codes. If you want to try, you just download it and try. 
 ~The file name "Colors.txt" includes sample colors which you have to use for encryption.
-~When you run the program, you have to check Color.txt.
+~When you run the program, you have to check Colors.txt for different methods.
