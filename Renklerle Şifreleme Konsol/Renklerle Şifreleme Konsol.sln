@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renklerle Şifreleme Konsol", "Renklerle Şifreleme Konsol\Renklerle Şifreleme Konsol.csproj", "{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyİmageButton", "MyİmageButton\MyİmageButton.csproj", "{4EBF6340-EC29-4710-AA2A-D9A8370F0309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}.Debug|x64.ActiveCfg = Debug|x64
+		{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}.Debug|x64.Build.0 = Debug|x64
+		{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}.Release|x64.ActiveCfg = Release|x64
+		{0559B67E-A1E7-4FE4-8689-8860C9AE1E92}.Release|x64.Build.0 = Release|x64
+		{4EBF6340-EC29-4710-AA2A-D9A8370F0309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBF6340-EC29-4710-AA2A-D9A8370F0309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBF6340-EC29-4710-AA2A-D9A8370F0309}.Debug|x64.ActiveCfg = Debug|x64
+		{4EBF6340-EC29-4710-AA2A-D9A8370F0309}.Debug|x64.Build.0 = Debug|x64
+		{4EBF6340-EC29-4710-AA2A-D9A8370F0309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBF6340-EC29-4710-AA2A-D9A8370F0309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBF6340-EC29-4710-AA2A-D9A8370F0309}.Release|x64.ActiveCfg = Release|x64
+		{4EBF6340-EC29-4710-AA2A-D9A8370F0309}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93DF39D3-8BD1-48C9-BBD1-F92C6C437B7A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\ahmet\source\repos\Renklerle Şifreleme Konsol\MyİmageButton\bin\x64\Debug\MyİmageButton.dll
+C:\Users\ahmet\source\repos\Renklerle Şifreleme Konsol\MyİmageButton\bin\x64\Debug\MyİmageButton.pdb
+C:\Users\ahmet\source\repos\Renklerle Şifreleme Konsol\MyİmageButton\obj\x64\Debug\MyİmageButton.UserControl1.resources
+C:\Users\ahmet\source\repos\Renklerle Şifreleme Konsol\MyİmageButton\obj\x64\Debug\MyİmageButton.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Renklerle Şifreleme Konsol\MyİmageButton\obj\x64\Debug\MyİmageButton.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Renklerle Şifreleme Konsol\MyİmageButton\obj\x64\Debug\MyİmageButton.dll
+C:\Users\ahmet\source\repos\Renklerle Şifreleme Konsol\MyİmageButton\obj\x64\Debug\MyİmageButton.pdb
